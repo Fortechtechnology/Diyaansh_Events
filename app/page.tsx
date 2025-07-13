@@ -706,7 +706,7 @@ export default function EventOrganizerWebsite() {
               <div className="absolute inset-0 bg-gradient-to-r from-red-600/30 to-red-800/30 rounded-2xl transform rotate-6 blur-sm animate-pulse-slow"></div>
               <div className="relative rounded-2xl overflow-hidden shadow-2xl border border-red-900/30 hover:border-red-600/50 transition-all duration-500 group">
                 <Image
-                  src="/images/img/images/about.jpg"
+                  src="\images\img\Images\about.JPG"
                   alt="About Diyaansh Events - Cultural Festival"
                   width={500}
                   height={600}

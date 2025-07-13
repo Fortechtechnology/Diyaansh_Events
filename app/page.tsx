@@ -66,7 +66,7 @@ export default function EventOrganizerWebsite() {
         "We specialize in organizing large-scale cultural events that bring people together in celebration.",
     },
     {
-      video: "/images/img/videos/v.mp4", // <-- your video file path
+      video: "/images/img/videos/v2.mp4", // <-- your video file path
       title: "Cultural Gatherings",
       subtitle: "Celebrating traditions and communities",
       description:
@@ -261,7 +261,7 @@ export default function EventOrganizerWebsite() {
     {
       title: "Garba Dazzle 2.0 2k25",
       category: "Entertainment",
-      image: "/images/img/Images/183.jpg",
+      image: "/images/img/Images/183.JPG",
       attendees: "12000+",
       description:
         "Garba Dazzle: A dazzling night of rhythmic dance, vibrant outfits, and cultural celebration under the festive Navratri lights. ",

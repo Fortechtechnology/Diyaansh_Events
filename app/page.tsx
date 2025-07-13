@@ -45,14 +45,14 @@ export default function EventOrganizerWebsite() {
   // Hero slider images
   const heroSlides = [
     {
-      image: "/images/img/images/img1.jpg",
+      image: "/images/img/Images/img1.jpg",
       title: "High on Music Festival",
       subtitle: "Creating magical moments under the stars",
       description:
         "Transform your special occasions into unforgettable experiences with our premium event planning services.",
     },
     {
-      image: "/images/img/images/banner2.jpg",
+      image: "/images/img/Images/banner2.jpg",
       title: "Garba Dhamaka: Dance • Dazzle • Celebrate!",
       subtitle: "Experience the rhythm of tradition",
       description:
@@ -237,7 +237,7 @@ export default function EventOrganizerWebsite() {
     {
       title: "Garba Dazzle 2k24",
       category: "Entertainment",
-      image: "/images/img/images/Garba.png",
+      image: "/images/img/Images/Garba.png",
       attendees: "10000+",
       description:
         "A vibrant Garba night filled with music, dance, colorful attire, and festive spirit celebrating tradition with joyful energy..",
@@ -245,7 +245,7 @@ export default function EventOrganizerWebsite() {
     {
       title: "Rang E Sufi",
       category: "Entertainment",
-      image: "/images/img/images/holi.png",
+      image: "/images/img/Images/holi.png",
       attendees: "5000+",
       description:
         "A soulful evening of Sufi music, poetry, and colors celebrating love, devotion, and spiritual harmony.",
@@ -253,7 +253,7 @@ export default function EventOrganizerWebsite() {
     {
       title: "Run for a Girl Child",
       category: "Social Cause",
-      image: "/images/img/images/girl.jpg",
+      image: "/images/img/Images/girl.jpg",
       attendees: "10000+",
       description:
         "Run for a Girl Child: A social initiative promoting education, empowerment, and equality for girls through community participation and awareness.",
@@ -261,7 +261,7 @@ export default function EventOrganizerWebsite() {
     {
       title: "Garba Dazzle 2.0 2k25",
       category: "Entertainment",
-      image: "/images/img/images/183.jpg",
+      image: "/images/img/Images/183.jpg",
       attendees: "12000+",
       description:
         "Garba Dazzle: A dazzling night of rhythmic dance, vibrant outfits, and cultural celebration under the festive Navratri lights. ",
@@ -706,7 +706,7 @@ export default function EventOrganizerWebsite() {
               <div className="absolute inset-0 bg-gradient-to-r from-red-600/30 to-red-800/30 rounded-2xl transform rotate-6 blur-sm animate-pulse-slow"></div>
               <div className="relative rounded-2xl overflow-hidden shadow-2xl border border-red-900/30 hover:border-red-600/50 transition-all duration-500 group">
                 <Image
-                  src="\images\img\Images\about.JPG"
+                  src="/images/img/Images/about.JPG"
                   alt="About Diyaansh Events - Cultural Festival"
                   width={500}
                   height={600}
